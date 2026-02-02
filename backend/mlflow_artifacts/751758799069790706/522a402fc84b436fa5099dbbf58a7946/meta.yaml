@@ -1,0 +1,14 @@
+artifact_uri: /Users/venkatapraneethcheturi/Downloads/neuralforge/backend/mlflow_artifacts/751758799069790706/522a402fc84b436fa5099dbbf58a7946/artifacts
+end_time: 1781789794980
+entry_point_name: ''
+experiment_id: '751758799069790706'
+lifecycle_stage: active
+run_id: 522a402fc84b436fa5099dbbf58a7946
+run_name: image_classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781788636844
+status: 3
+tags: []
+user_id: venkatapraneethcheturi

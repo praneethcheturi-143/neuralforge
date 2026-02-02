@@ -1,0 +1,14 @@
+artifact_uri: /Users/venkatapraneethcheturi/Downloads/neuralforge/backend/mlflow_artifacts/751758799069790706/c30ee4a773fd4abdb28a77159c346080/artifacts
+end_time: 1781789820271
+entry_point_name: ''
+experiment_id: '751758799069790706'
+lifecycle_stage: active
+run_id: c30ee4a773fd4abdb28a77159c346080
+run_name: nlp_sentiment
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781789818737
+status: 3
+tags: []
+user_id: venkatapraneethcheturi
